@@ -37,3 +37,25 @@ login: Peter
 pass: learncode  
 
 (do not forget to change database settings if you want to run app locally) or simply visit website: https://yash-library-web.herokuapp.com
+  
+                         .sssssssss.  
+                    .sssssssssssssssssss
+                  sssssssssssssssssssssssss
+                 ssssssssssssssssssssssssssss
+                  @@sssssssssssssssssssssss@ss
+                  |s@@@@sssssssssssssss@@@@s|s
+           _______|sssss@@@@@sssss@@@@@sssss|s
+         /         sssssssss@sssss@sssssssss|s
+        /  .------+.ssssssss@sssss@ssssssss.|
+       /  /       |...sssssss@sss@sssssss...|
+      |  |        |.......sss@sss@ssss......|
+      |  |        |..........s@ss@sss.......|
+      |  |        |...........@ss@..........|
+       \  \       |............ss@..........|
+        \  '------+...........ss@...........|
+         \________ .........................|
+                  |.........................|
+                 /...........................\
+                |.............................|
+                   |.......................|
+                       |...............|
